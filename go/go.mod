@@ -73,14 +73,14 @@ require (
 	github.com/urfave/cli v1.22.1
 	github.com/vividcortex/ewma v1.1.2-0.20170804035156-43880d236f69
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.17.0
-	golang.org/x/image v0.14.0
+	golang.org/x/crypto v0.35.0
+	golang.org/x/image v0.18.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a
-	golang.org/x/net v0.19.0
-	golang.org/x/sync v0.5.0
-	golang.org/x/sys v0.15.0
-	golang.org/x/text v0.14.0
+	golang.org/x/net v0.25.0
+	golang.org/x/sync v0.11.0
+	golang.org/x/sys v0.30.0
+	golang.org/x/text v0.22.0
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 	gopkg.in/src-d/go-git.v4 v4.13.1
@@ -116,8 +116,8 @@ require (
 	github.com/andybalholm/cascadia v0.0.0-20150730174459-3ad29d1ad1c4 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
 	github.com/antchfx/htmlquery v0.0.0-20180925020018-98389addba3d // indirect
-	github.com/antchfx/xmlquery v0.0.0-20181024140136-98cdbc3221ed // indirect
-	github.com/antchfx/xpath v0.0.0-20180922041825-3de91f3991a1 // indirect
+	github.com/antchfx/xmlquery v1.3.1 // indirect
+	github.com/antchfx/xpath v1.1.10 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180319081651-7d2e70ef918f // indirect
 	github.com/ashanbrown/forbidigo v1.6.0 // indirect
 	github.com/ashanbrown/makezero v1.1.1 // indirect
@@ -184,7 +184,7 @@ require (
 	github.com/golangci/misspell v0.4.1 // indirect
 	github.com/golangci/revgrep v0.5.0 // indirect
 	github.com/golangci/unconvert v0.0.0-20180507085042-28b1c447d1f4 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/gordonklaus/ineffassign v0.0.0-20230610083614-0e73809eb601 // indirect
 	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
 	github.com/gostaticanalysis/comment v1.4.2 // indirect
@@ -314,10 +314,10 @@ require (
 	go4.org v0.0.0-20161118210015-09d86de304dc // indirect
 	golang.org/x/exp v0.0.0-20230510235704-dd950f8aeaea // indirect
 	golang.org/x/exp/typeparams v0.0.0-20230307190834-24139beb5833 // indirect
-	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/tools v0.16.1 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
